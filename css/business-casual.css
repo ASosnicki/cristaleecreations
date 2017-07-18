@@ -55,6 +55,7 @@ hr {
 
 .img-full {
     min-width: 100%;
+    min-height: 50%;
 }
 
 .brand-before,
